@@ -1,0 +1,6 @@
+{
+	"editor.multiCursorModifier": "ctrlCmd",
+	"editor.find.autoFindInSelection": "always",
+	"gitlens.gitCommands.search.matchAll": true,
+	"gitlens.gitCommands.search.matchCase": true
+}
